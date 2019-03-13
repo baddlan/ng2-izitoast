@@ -1,4 +1,5 @@
 import { Injectable, NgModule } from '@angular/core';
+import iziToast from 'izitoast';
 
 /**
  * @fileoverview added by tsickle
